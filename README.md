@@ -1,2 +1,3 @@
 # AV
-# repository of PS command for MTR AV system
+repository of PS command for MTR AV system
+Auth - Sachii
